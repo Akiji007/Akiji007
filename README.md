@@ -13,7 +13,7 @@
 
  
 
-<img src="https://komarev.com/ghpvc/?username=Akiji007&style=flat-square&color=red" alt=""/>
+
 
 <div id="badges">
   <a href="(https://www.linkedin.com/in/akhil-srivastava-993bb122a)">
@@ -23,8 +23,9 @@
   <a href="instagram.com/om_sri_2026">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Instagram Badge"/>
   </a>
+  
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=Akiji007&style=flat-square&color=red" alt=""/>
   
 
  
